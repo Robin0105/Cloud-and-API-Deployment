@@ -6,4 +6,3 @@ joblib==1.0.1
 MarkupSafe
 scikit-learn==0.22.2.post1
 Werkzeug==1.0.1
-gunicorn
